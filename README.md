@@ -13,6 +13,6 @@ Description:The Blinkit's Power bi dashboard helps monitors sales performance an
     logic.
   *Data Modeling-Relationships established among tables.
 
-  Screenshot:
+  Screenshot:https://github.com/as408/Blinkit-dashboard/blob/main/blinkit%20.png
   
    
